@@ -1,4 +1,4 @@
-#Iris KNN Classifier
+Iris KNN Classifier
 
 This project is a simple implementation of the K-Nearest Neighbors (KNN) algorithm using Python. It applies KNN to classify flowers from the famous Iris dataset based on their sepal and petal dimensions. The goal is to compare how different distance metrics impact the accuracy of the predictions.
 
